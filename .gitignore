@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Ruby
+backend/log/
+backend/tmp/
+backend/vendor/
+backend/.env
+backend/.DS_Store
+
+# General
+*.log
+.env
+*.sqlite3
+*.swp

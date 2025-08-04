@@ -1,0 +1,2 @@
+class Dayhome < ApplicationRecord
+end

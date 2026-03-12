@@ -1,2 +1,0 @@
-class Dayhome < ApplicationRecord
-end

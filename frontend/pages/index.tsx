@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <div className="p-4">
-      <h1>Welcome to the Canadian Dayhome Finder!</h1>
+      <h1>Welcome to the Canadian Dayhome Finder!!</h1>
       {user ? <p>Hello, {user.name}</p> : <a href="/api/auth/login">Login</a>}
     </div>
   );
